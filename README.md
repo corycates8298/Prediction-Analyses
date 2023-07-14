@@ -1,4 +1,3 @@
-Sure! Here's an example of a dynamic README.md file based on your project:
 
 # Item Sales Prediction Analysis
 
@@ -27,7 +26,7 @@ In this analysis, we explore historical sales data and develop a predictive mode
 To run the notebook and replicate the analysis, please follow these steps:
 
 1. Clone this repository: `git clone https://github.com/corycates8298/Prediction-Analyses.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
+   
 
 ## Usage
 
@@ -37,7 +36,7 @@ To run the notebook and replicate the analysis, please follow these steps:
 
 ## Dataset
 
-The dataset used for this analysis is not included in this repository due to its size. However, you can find the dataset from [source link here] and place it in the same directory as the notebook.
+The dataset used for this analysis is not included in this repository due to its size. However, you can find the dataset from https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view?usp=sharing and place it in the same directory as the notebook.
 
 ## Notebook
 
@@ -59,4 +58,4 @@ Feel free to use the code and adapt it to your needs.
 
 ---
 
-By [Your Name]
+By Cory N. Cates

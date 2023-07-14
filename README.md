@@ -44,7 +44,12 @@ The notebook, "Item Sales Prediction Analysis July 2023.ipynb," contains the com
 
 ## Results
 
-The results of this analysis include the predicted item sales, evaluation metrics, and insights derived from the trained model. The notebook provides visualizations and interpretations to facilitate a comprehensive understanding of the sales trends and patterns.
+The results of this analysis include the predicted item sales, evaluation metrics, and insights derived from the trained model. The notebook provides visualizations and interpretations to facilitate a comprehensive understanding of the sales trends and patterns.  This is definitely better (Random Trees after tuning). The R values are closer to one another. Still underfitted, but better. The MAE and MSE values are also more closely related, which further solidifies that this is the better model.
+
+The R values aren't horrible, but fairly low. What lead me to definitively determine underfitting was due to the fact that both the test and training values were fairly similar.
+Based on regression testing, I have determined that this model (Featrues) is not equipped enough to accurately predict the Item Sales. I based this off of interpreting the the R, RMSE, and R values.
+
+So an R^2 of .674 (Which is the training data after tuning) means that the model can explain 67% of the variation in the target. I did not select the MAE and MSE, because I am interested in the negative values and not just the magnitude (when interpreting Sales data). Also, I want a less complicated model to follow than MSE. The R values were much easier to interpret and to explain, but the MAE/MSE may be more suitable models.  
 
 ## Contributing
 

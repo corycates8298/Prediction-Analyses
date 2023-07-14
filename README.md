@@ -50,12 +50,10 @@ The results of this analysis include the predicted item sales, evaluation metric
 
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to use the code and adapt it to your needs.
 
----
+-------------------
 
 By Cory N. Cates

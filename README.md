@@ -51,9 +51,15 @@ Based on regression testing, I have determined that this model (Featrues) is not
 
 So an R^2 of .674 (Which is the training data after tuning) means that the model can explain 67% of the variation in the target. I did not select the MAE and MSE, because I am interested in the negative values and not just the magnitude (when interpreting Sales data). Also, I want a less complicated model to follow than MSE. The R values were much easier to interpret and to explain, but the MAE/MSE may be more suitable models.  
 
+### Visualizations
+
 ![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image1,-.png)
 
+- Outlet Size by Outlet Sales Comparison.  As you can see, Store 3 is outranking the competitors.
+  
 ![Alt Text[]([https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image2,-.png](https://github.com/corycates8298/Prediction-Analyses/edit/main/README.md#:~:text=README.md-,image2,-.png))](https://github.com/corycates8298/Prediction-Analyses/blob/main/image2.png?raw=true)
+
+- Heatmap correlation  between item_mrp an item_outlet_sales, however not that strong. Looks to be at 0.57, with 1 being the strongest.
 
 ![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image3.png?raw=true)
 
@@ -64,6 +70,8 @@ So an R^2 of .674 (Which is the training data after tuning) means that the model
 ![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image6.png?raw=true)
 
 ![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image7.png?raw=true)
+
+- Outlet Location type definitely plays a major factor in Sales.  The client demographic changes based on where the store is located.  
 
 ![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/Image8.png?raw=true)
 

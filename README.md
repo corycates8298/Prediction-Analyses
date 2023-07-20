@@ -51,7 +51,7 @@ Based on regression testing, I have determined that this model (Featrues) is not
 
 So an R^2 of .674 (Which is the training data after tuning) means that the model can explain 67% of the variation in the target. I did not select the MAE and MSE, because I am interested in the negative values and not just the magnitude (when interpreting Sales data). Also, I want a less complicated model to follow than MSE. The R values were much easier to interpret and to explain, but the MAE/MSE may be more suitable models.  
 
-https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image1,-.png
+![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image1,-.png)
 (https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image2,-.png)
 (https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image3,-.png)
 (https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image4,-.png)

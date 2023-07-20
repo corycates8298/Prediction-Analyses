@@ -61,11 +61,10 @@ So an R^2 of .674 (Which is the training data after tuning) means that the model
 
 - Heatmap correlation  between item_mrp an item_outlet_sales, however not that strong. Looks to be at 0.57, with 1 being the strongest.
 
-![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image3.png?raw=true)
-
-![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image4.png?raw=true)
 
 ![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image5.png?raw=true)
+
+- An example of the type of data that is excluded based on the current analysis.  Column Identifiers can be overlooked in this case.  
 
 ![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image6.png?raw=true)
 

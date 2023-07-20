@@ -74,6 +74,15 @@ So an R^2 of .674 (Which is the training data after tuning) means that the model
 
 ![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/Image8.png?raw=true)
 
+- This is a pretty positive correlation with r at 0.57. X increases and so does Y. Which makes sense, it's the actual list price. Actual price includes markup for profit.
+
+
+## Recommendations 
+
+My recommendation is to pay attention to some of the visualizations discribed above.  Most particularly, the Outlet Size, Location, and Item MRP.  They seem to play a pretty strong role in determining what the sales patterns are.
+
+Although, this analysis wasn't 100% conclusive, the overall MAE and RMSE numbers that I have provided, may give you some insight into what the future wholes for your sales.  Please contact us if you need any further clarification.
+
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.

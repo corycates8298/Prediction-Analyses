@@ -68,7 +68,7 @@ So an R^2 of .674 (Which is the training data after tuning) means that the model
 
 ![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image6.png?raw=true)
 
-![Alt Text(https://github.com/corycates8298/Prediction-Analyses/blob/main/image7.png?raw=true)
+![Alt Text] (https://github.com/corycates8298/Prediction-Analyses/blob/main/image7.png?raw=true)
 
 - Outlet Location type definitely plays a major factor in Sales.  The client demographic changes based on where the store is located.  
 

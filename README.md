@@ -59,13 +59,13 @@ So an R^2 of .674 (Which is the training data after tuning) means that the model
 
 ![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image4.png?raw=true)
 
-![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image5,-.png)
+![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image5.png?raw=true)
 
-![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image6,-.png)
+![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image6.png?raw=true)
 
-![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image7,-.png)
+![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image7.png?raw=true)
 
-![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/Image1.png#:~:text=t-,Image8,-.png)
+![Alt Text](https://github.com/corycates8298/Prediction-Analyses/blob/main/image8.png?raw=true)
 
 ## Contributing
 
